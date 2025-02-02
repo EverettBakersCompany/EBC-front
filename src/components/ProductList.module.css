@@ -1,0 +1,95 @@
+/* Updated ProductList.module.css */
+.productList {
+    position: relative;
+    padding: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px; /* Reduced margin for closer spacing */
+}
+
+.title {
+    font-family: Nokora;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 10px;
+}
+
+.navButton {
+    background-color: #81b29a;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+/* Scrollable layout (horizontal) */
+/* Scrollable layout (horizontal) */
+.scrollLayout {
+    display: flex;
+    flex-wrap: nowrap; /* Single row layout */
+    gap: 10px;
+    padding: 10px;
+    scroll-behavior: smooth;
+    overflow-x: hidden; /* No horizontal scrollbar */
+    overflow-y: visible; /* Allow expanded items to overflow vertically */
+    position: relative; /* Keep hover effects correctly layered */
+}
+
+.scrollLayout > * {
+    flex: 0 0 calc(100% / 4 - 10px); /* Show 4 items per viewport width */
+    width: 200px;
+    height: 300px;
+    position: relative;
+    z-index: 1; /* Default z-index for stacking */
+}
+
+/* New Grid Layout - Display Products in Grid */
+.gridLayout {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust to make products resize properly */
+    gap: 20px;
+    padding: 10px;
+    overflow: visible; /* Allow overflow for expanding items */
+}
+
+.productBox {
+    transition: transform 0.3s ease, z-index 0.3s ease;
+}
+
+.productBox:hover {
+    transform: scale(1.2); /* Expand fully */
+    z-index: 10; /* Bring the hovered item to the front */
+}
+
+.navButton:hover {
+    background-color: #6a9e87;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .buttonGroup {
+        align-self: flex-end;
+    }
+}

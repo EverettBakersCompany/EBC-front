@@ -1,0 +1,31 @@
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: var(--branco-verde);
+    font-size: 15px;
+    text-decoration: none;
+
+    gap: 4px;
+
+    font-family: "Nokora", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+    padding: 5px;
+}
+
+.left {
+    width: 10px;
+}
+
+.right {
+    rotate: 180deg;
+    width: 10px;
+}
+
+.total {
+    width: fit-content;
+    height: fit-content;
+}

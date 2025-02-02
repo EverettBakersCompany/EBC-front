@@ -1,0 +1,16 @@
+.all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+}
+
+.title {
+    color:var(--branco-verde);
+    font-size: 50px;
+
+    font-family: "Nokora", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}

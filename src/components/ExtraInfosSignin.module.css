@@ -1,0 +1,13 @@
+.all {
+    height: 100%;
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+}
+
+.btnSub {
+    display: flex;
+    justify-content: center;
+}

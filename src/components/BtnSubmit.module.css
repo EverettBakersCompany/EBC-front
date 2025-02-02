@@ -1,0 +1,15 @@
+.all {
+    width: 32%;
+    height: 40px;
+
+    background-color: var(--btn_green);
+    border: none;
+    border-radius: 5px;
+
+    color: var(--branco-verde);
+
+    font-size: 13px;
+    font-family: "Nokora", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}

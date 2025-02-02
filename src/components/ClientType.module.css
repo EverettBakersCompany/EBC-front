@@ -1,0 +1,47 @@
+.all{
+    width: 55px;
+    height: 55px;
+
+    border: none;
+    border-radius: 5px;
+
+    display: flex;
+}
+
+.all:hover {
+    width: 200px;
+
+    .text{
+        display: flex;
+    }
+}
+
+.text {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+    width: 145px;
+
+    font-family: "Nokora", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+
+}
+
+.icon{
+    height: 55px;
+    width: 55px;
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconi {
+    font-size: 25px;
+}
