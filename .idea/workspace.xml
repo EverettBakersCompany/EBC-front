@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="100df4b7-a7b8-41c2-887d-2ffc58bb7840" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/AboutUs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Bag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Classic_hummus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Michael.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Picture1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Picture2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Picture3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Plate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/ProfPic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/StorePic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/WhyUs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/baba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/backlog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/baklava.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/cheese.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/chevron.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/chip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/closedEye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/hummus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/japaleno_feta_cheese.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/openedEye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/other.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/pita_with_sea_salt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/roasted_garlic_hummus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/roasted_sweet_hummus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/spicy_pepper_cheese.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/tzatziki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Admin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AdminPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BtnSubmit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BtnSubmit.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chat.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chat.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ClientType.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ClientType.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CodeInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CodeInput.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContentSignin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContentSignin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DeliveryInfos.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DeliveryInfos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EntraceInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EntraceInput.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExtraInfosSignin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExtraInfosSignin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Filter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Filter.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormLogin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormLogin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormSign.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormSign.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordBar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordRecovery.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordRecovery.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductBox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductBox.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignFormPassword.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignFormPassword.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreBox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreBox.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreInfos.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreInfos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TitleIn.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TitleIn.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VoltaLogin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VoltaLogin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/BagContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/products.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CheckoutPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CheckoutPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Landing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Landing.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductDetails.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductDetails.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProfilePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProfilePage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Signin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Signin.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2sVSArLuqFFcBVuzgCQNq1l00QC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/basqu/Documents/GitHub/EBC-front",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="100df4b7-a7b8-41c2-887d-2ffc58bb7840" name="Changes" comment="" />
+      <created>1738539108431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738539108431</updated>
+      <workItem from="1738539109652" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
